@@ -6,3 +6,6 @@ This is my first repositry and also updated!
 
 
 # updating
+
+
+## Addming something new in git file
